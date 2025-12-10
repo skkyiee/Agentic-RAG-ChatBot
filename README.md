@@ -4,7 +4,6 @@ This project is an **agent-based Retrieval-Augmented Generation (RAG) chatbot** 
 
 ## 🔗 Links
 
-* [Demo Video](https://youtu.be/BmXY5d8MtAY)
 * [Architecture Diagram PDF](https://github.com/ashittis/AgenticRAGChatbot/blob/main/architrcturepdf.pdf)
 
 ## Features
@@ -141,3 +140,4 @@ agentic-rag-chatbot/
 * Extend to support **LangChain** or **LlamaIndex** integration in future versions
 
 ---
+
